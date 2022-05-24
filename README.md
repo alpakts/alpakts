@@ -2,7 +2,8 @@
 - 👀 I’m interested in sofware developing
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on a software team
-- ✔  I’m good at Java(OOP),PHP(Web developing),python(AI and general)
+- ✔ I’m good at Java(OOP),PHP(Web developing),python(AI and general) 
+- ✔ currently im interest in C# .net Core and angular languages
 - 📫 How to reach me aktasalper0708@gmail.com
 
 <!---
