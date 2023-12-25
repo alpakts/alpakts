@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Forceget Digital Frieght Forwarder**
 
-- 🌱 I’m currently learning **Clean Architecture**
+- 🌱 I’m currently learning **Server Side Rendering**
 
 
 - 💬 Ask me about **.NET, C#,Angular,React,Javascript, SQL, TypeScript**
