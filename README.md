@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Akinon**
 
-- 🌱 I’m currently learning **Server Side Rendering**
+- 🌱 I’m currently learning **AWS Cloud**
 
 
 - 💬 Ask me about **.NET, C#,Angular,React,Javascript, SQL, TypeScript**
